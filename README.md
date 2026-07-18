@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on: Full-stack web projects and responsive interfaces.<br><br>👯 I’m looking to collaborate on: Open to collaborating with everyone on interesting projects!<br><br>🌱 I’m currently learning: Next.js, Node.js, and backend architecture.<br><br>💬 Ask me about: JavaScript, Tailwind CSS, and full-stack development.<br><br>⚡ Fun fact: I love breaking down complex problems and building efficient web apps.
+🔭 I’m currently working on: Full-stack web projects and responsive interfaces.<br>
+👯 I’m looking to collaborate on: Open to collaborating with everyone on interesting projects!<br>
+🌱 I’m currently learning: Next.js, Node.js, and backend architecture.<br>
+💬 Ask me about: JavaScript, Tailwind CSS, and full-stack development.<br>
+⚡ Fun fact: I love breaking down complex problems and building efficient web apps.
 
 
 ## 🌐 Socials:
